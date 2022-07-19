@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 19 12:45:45 GMT 2022","Tue Jul 19 12:45:47 GMT 2022","2227","","SeleniumTest","","SeleniumTest","NamecardTest","NamecardTest()","Get the names from the namecards"
+"passed","Tue Jul 19 12:45:37 GMT 2022","Tue Jul 19 12:45:41 GMT 2022","3977","","SeleniumTest","","SeleniumTest","AlertTest","AlertTest()","Text from Modal window"
+"passed","Tue Jul 19 12:45:41 GMT 2022","Tue Jul 19 12:45:45 GMT 2022","4079","","SeleniumTest","","SeleniumTest","TestInput","Sum of two numbers",""
+"passed","Tue Jul 19 12:45:31 GMT 2022","Tue Jul 19 12:45:34 GMT 2022","3141","","SeleniumTest","","SeleniumTest","SelectDayTest","SelectDayTest()","Last day of the week selected"
+"passed","Tue Jul 19 12:45:35 GMT 2022","Tue Jul 19 12:45:37 GMT 2022","2617","","SeleniumTest","","SeleniumTest","TableTest","TableTest()","Names to file from table"
