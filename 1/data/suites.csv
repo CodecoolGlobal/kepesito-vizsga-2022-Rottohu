@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue Jul 19 12:26:38 GMT 2022","Tue Jul 19 12:26:38 GMT 2022","734","","SeleniumTest","","SeleniumTest","SelectDayTest","SelectDayTest()","Last day of the week selected"
+"broken","Tue Jul 19 12:26:39 GMT 2022","Tue Jul 19 12:26:39 GMT 2022","160","","SeleniumTest","","SeleniumTest","AlertTest","AlertTest()","Text from Modal window"
+"broken","Tue Jul 19 12:26:39 GMT 2022","Tue Jul 19 12:26:39 GMT 2022","161","","SeleniumTest","","SeleniumTest","NamecardTest","NamecardTest()","Get the names from the namecards"
+"broken","Tue Jul 19 12:26:39 GMT 2022","Tue Jul 19 12:26:39 GMT 2022","166","","SeleniumTest","","SeleniumTest","TableTest","TableTest()","Names to file from table"
+"broken","Tue Jul 19 12:26:39 GMT 2022","Tue Jul 19 12:26:39 GMT 2022","155","","SeleniumTest","","SeleniumTest","TestInput","Sum of two numbers",""
